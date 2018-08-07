@@ -7406,7 +7406,7 @@
 # ETRS89 / UTM zone 30N
 <25830> +proj=utm +zone=30 +datum=ETRS89 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
 # ETRS89 / UTM zone 31N
-<25831> +proj=utm +zone=31 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
+<25831> +proj=utm +zone=31 +datum=ETRS89 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
 # ETRS89 / UTM zone 32N
 <25832> +proj=utm +zone=32 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs  <>
 # ETRS89 / UTM zone 33N
